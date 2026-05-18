@@ -1,4 +1,4 @@
-# DESN FMLY Seniors (template)
+# DESN FMLY Seniors (Bea's Updated Template)
 
 ## Why? 
 * Listing of data (rosters) should be dynamic for current and future use
@@ -11,6 +11,9 @@
 * Utilzie components and sub components nested and inherited layouts
 * Programmatically create a listing (roster) of information
 * Practice iteraing an MVP (minimal viable project) to a complete version 1.0
+
+## Achieved
+* So far, the base layout has been updated dynamically through Student Cards, The overall Styles, and the main pages. This is now prepared for more information.
 
 ## Commands
 All commands are run from the `/` root of the project:
